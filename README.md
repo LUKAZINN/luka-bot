@@ -1,2 +1,0 @@
-# lukabot
-Termux Bot
